@@ -81,6 +81,3 @@ function App() {
 }
 
 export default App;
-
-// and updarte
-// update code and this
