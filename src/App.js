@@ -15,7 +15,7 @@ function App() {
       .get('https://opentdb.com/api_category.php')
       .then(res => {
         setCategories(res.data.trivia_categories)
-      })
+      }) 
   }, [])
 
   useEffect(() => {
@@ -81,3 +81,6 @@ function App() {
 }
 
 export default App;
+
+// and updarte
+// update code and this
